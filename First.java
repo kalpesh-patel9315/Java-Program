@@ -5,5 +5,6 @@ class First{
         System.out.println("this is a java program..");
         System.out.println("Output from java program.."+new Date());
         System.out.println("Hello java developer..");
+        System.out.println("Hi Automaic build done..");
     }
 }
